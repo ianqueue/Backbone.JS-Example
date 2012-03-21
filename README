@@ -1,0 +1,3 @@
+This is a simple backbone.js app that simply stores what you type in local storage and previews it.
+
+You can also see previous data stored in local storage. This is just to show how backbone can work.
